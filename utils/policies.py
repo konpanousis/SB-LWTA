@@ -1,3 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Some policies, such as linear decay, that can be used for the learning rate or annealing the temperature of the relaxed distributions
+or for the KL divergence.
+
+@author: @author: Konstantinos P. Panousis, Dept. of Informatics and Telecommunications, 
+         National and Kapodistrian University of Athens, Greece
+         
+"""
+
+
 import numpy as np
 
 def linear_decay(epoch_num, decay_start, total_epochs, start_value):
