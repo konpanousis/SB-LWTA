@@ -10,15 +10,16 @@ By changing U, you can choose the competing units, provided that 20, 50 and 500 
 For the case of 4 competing units, we chose to use 48 feature maps on the second layer.
 
 Note: the original LeNet-5-Caffe network consists of two convolutional layers and one feedforward fully connected layer
-with 20, 50 feature maps and 500 neurons in the first respectively
+with 20, 50 feature maps and 500 neurons respectively
 
-@author: Currently anonymous
+@author: Konstantinos P. Panousis, Dept. of Informatics and Telecommunications, 
+         National and Kapodistrian University of Athens, Greece
+         
 """
 
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-
 
 
 import os, time, platform
