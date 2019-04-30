@@ -9,7 +9,9 @@ to test the compression.
 Various variables such as sparsity and kl losses can be viewed with tensorboard
 
 
-@author: Currently anonymous
+@author: Konstantinos P. Panousis, Dept. of Informatics and Telecommunications, 
+         National and Kapodistrian University of Athens, Greece
+         
 """
 
 import os
