@@ -5,7 +5,8 @@ described in the paper
 
 The current file contains implementations for feedforward and convolutional layers.
 
-@author: Currently anonymous
+@author: Konstantinos P. Panousis, Dept. of Informatics and Telecommunications, 
+         National and Kapodistrian University of Athens, Greece
 """
 
 import tensorflow as tf
