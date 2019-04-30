@@ -3,8 +3,8 @@
 Script file for the implementation of the LeNet-5-Caffe network for the paper
 
 The network consists of two convolutiona layers with local competition with 10 blocks with 2 competing feature maps
-for the first layer and 25 blocks with 2 competing units for the second, followed by an output layer for
-classification.
+for the first layer and 25 blocks with 2 competing units for the second, followed by a feedforward layer with 250 LWTA blocks of 2 
+competing units, and an output layer for classification.
 
 By changing U, you can choose the competing units, provided that 20, 50 and 500 % U =0
 For the case of 4 competing units, we chose to use 48 feature maps on the second layer.
