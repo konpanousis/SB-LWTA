@@ -1,5 +1,6 @@
-# SB-LWTA
-Code Implementation for Nonparametric Bayesian Deep Networks with Local Competition published in ICML 2019.
+# Nonparametric Bayesian Deep Networks with Local Competition
+Code Implementation for Nonparametric Bayesian Deep Networks with Local Competition published in ICML 2019. 
+The code provides functions for constructing networks with normal priors and posteriors over the network's weights alongside an IBP prior for component omission; variational approximation is used for training. The supported activations are: ReLU, MaxOut and Local Winner-Takes-All.
 
 Abstract
 
