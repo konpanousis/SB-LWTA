@@ -11,7 +11,8 @@ By changing U, you can choose the competing units, provided that 300 and 100 % U
 Note: the original LeNet-300-100 network consists of two feedforward fully connected layers
 with 300 neurons in the first layer and 100 neurons in the second layer.
 
-@author: Currently anonymous
+@author: Konstantinos P. Panousis, Dept. of Informatics and Telecommunications, 
+         National and Kapodistrian University of Athens, Greece
 
 """
 
