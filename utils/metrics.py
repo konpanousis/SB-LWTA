@@ -2,7 +2,9 @@
 """
 The ELBO expression and the accuracy metric.
 
-@author: Currently anonymous
+@author: @author: Konstantinos P. Panousis, Dept. of Informatics and Telecommunications, 
+         National and Kapodistrian University of Athens, Greece
+         
 """
 import tensorflow as tf
 
