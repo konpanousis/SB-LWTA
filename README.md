@@ -1,3 +1,3 @@
-Code Implementation for the submitted paper "Nonparametric Bayesian Deep Networks with Local Competition".
-
+# SB-LWTA
+Code Implementation for Nonparametric Bayesian Deep Networks with Local Competition published in ICML 2019.
 
